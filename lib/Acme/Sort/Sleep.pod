@@ -12,14 +12,10 @@ Acme::Sort::Sleep - IO::Async timer based sorting algorithm
 
 L<https://www.reddit.com/r/programming/comments/2qeg28/4chan_sleep_sort/>
 
-=begin text
+  If it's dumb but it works, it's not dumb.
+  Except this. This works, but it's still dumb. :D
 
-If it's dumb but it works, it's not dumb.
-Except this. This works, but it's still dumb. :D
-
-  -- Asmor
-
-=end text
+    -- Asmor
 
 Except this won't always work.
 
